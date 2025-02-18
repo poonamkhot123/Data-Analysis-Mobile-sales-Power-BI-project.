@@ -14,7 +14,6 @@ The dashboard consists of multiple pages, each displaying **specific sales metri
 https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./blob/main/Mobile%20Sales%20Data.xlsx
 
 The dataset used in this project includes the following attributes:  
-
 ✅ **Brand** – The brand name of the mobile phones (Apple, Samsung, OnePlus, etc.)  
 ✅ **Mobile Model** – Specific mobile models under each brand  
 ✅ **Total Sales** – Revenue generated from mobile sales (in millions)  
@@ -29,7 +28,6 @@ The dataset used in this project includes the following attributes:
 
 ## **Project Objective**  
 The primary objectives of this project are:  
-
 🔹 **Sales Analysis:** Identify trends in mobile phone sales across brands and models.  
 🔹 **Customer Preferences:** Understand which payment methods customers prefer for transactions.  
 🔹 **Geographic Performance:** Determine which cities contribute the most to mobile sales.  
@@ -40,7 +38,6 @@ The primary objectives of this project are:
 
 ## **Questions Processed in the Dashboard**  
 The Power BI dashboard is designed to answer critical business questions such as:  
-
 📌 **Which mobile brand is generating the highest revenue?**  
 📌 **Which mobile model is the best-selling product?**  
 📌 **What is the trend of total sales over time (monthly & yearly)?**  
@@ -51,22 +48,21 @@ The Power BI dashboard is designed to answer critical business questions such as
 📌 **What are the customer ratings and satisfaction levels?**  
 
 
-
 ## **Dashboard Images** 
 https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./blob/main/Screenshot%202025-02-16%20194556.png
+
 https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./blob/main/Screenshot%202025-02-16%20194932.png
+
 https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./blob/main/Screenshot%202025-02-16%20194907.png
 
 **Three main dashboards**:  
 1️⃣ **Main Dashboard (Overall Sales Overview)**  
 2️⃣ **Same Period Last Year (Yearly Sales Comparison)**  
 3️⃣ **MTD Report (Month-to-Date Sales Analysis)**  
-
 These dashboards provide **a comprehensive view of sales trends, payment methods, and customer preferences.**  
 
 
 ## **Project Insights (Key Findings from the Dashboard)**  
-
 📌 **1. Top-Selling Brands & Models**  
 - **Apple, OnePlus, and Samsung** are the leading brands in terms of total sales.  
 - The highest-selling models include **iPhone SE, OnePlus Nord, and Galaxy Note 20**.  
@@ -101,7 +97,6 @@ https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./bl
 
 ## **Final Conclusion**  
 This **Mobile Sales Dashboard** is an effective tool for **analyzing mobile sales data** and tracking key performance indicators (KPIs). Businesses can use this dashboard to **identify high-performing products, optimize sales strategies, and enhance customer engagement** based on sales patterns.  
-
 The insights derived from this analysis will help companies **improve marketing campaigns, adjust inventory management, and make data-driven decisions for future growth.**  
 
 
