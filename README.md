@@ -94,6 +94,7 @@ These dashboards provide **a comprehensive view of sales trends, payment methods
 ---
 
 ## **Actual Dashboard Files** 
+https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./blob/main/Second%20Power%20BI%20dashboard..pbix
  
 
 ---
