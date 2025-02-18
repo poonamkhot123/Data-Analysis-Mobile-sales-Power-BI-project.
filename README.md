@@ -54,8 +54,7 @@ The Power BI dashboard is designed to answer critical business questions such as
 
 ## **Dashboard Images** 
 https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./blob/main/Screenshot%202025-02-16%20194556.png
-
-Data-Analysis-Mobile-sales-Power-BI-project./Screenshot 2025-02-16 194932.png at main · poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project.
+https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./blob/main/Screenshot%202025-02-16%20194932.png
 
 Data-Analysis-Mobile-sales-Power-BI-project./Screenshot 2025-02-16 194907.png at main · poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project.
 
