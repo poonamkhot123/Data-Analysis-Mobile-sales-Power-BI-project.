@@ -62,7 +62,6 @@ Include screenshots of your Power BI dashboard in your GitHub repository. You ha
 
 These dashboards provide **a comprehensive view of sales trends, payment methods, and customer preferences.**  
 
----
 
 ## **Project Insights (Key Findings from the Dashboard)**  
 
