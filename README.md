@@ -11,6 +11,7 @@ The dashboard consists of multiple pages, each displaying **specific sales metri
 
 
 ## **Datasheet (Data Used in the Project)**  
+Data-Analysis-Mobile-sales-Power-BI-project./Mobile Sales Data.xlsx at main · poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project.
 
 The dataset used in this project includes the following attributes:  
 
@@ -25,7 +26,6 @@ The dataset used in this project includes the following attributes:
 ✅ **Location-based Data** – Sales figures categorized by different cities in India  
 ✅ **Customer Ratings** – Feedback and rating status (Good, Average, Poor)  
 
----
 
 ## **Project Objective**  
 The primary objectives of this project are:  
@@ -37,7 +37,6 @@ The primary objectives of this project are:
 🔹 **Comparison with Past Year:** Compare current sales performance with the same period last year.  
 🔹 **Decision-Making Insights:** Provide businesses with key insights to optimize inventory, marketing, and pricing strategies.  
 
----
 
 ## **Questions Processed in the Dashboard**  
 The Power BI dashboard is designed to answer critical business questions such as:  
@@ -51,11 +50,16 @@ The Power BI dashboard is designed to answer critical business questions such as
 📌 **Which day of the week has the highest sales volume?**  
 📌 **What are the customer ratings and satisfaction levels?**  
 
----
 
-## **Dashboard Images**  
-Include screenshots of your Power BI dashboard in your GitHub repository. You have **three main dashboards**:  
 
+## **Dashboard Images** 
+Data-Analysis-Mobile-sales-Power-BI-project./Screenshot 2025-02-16 194556.png at main · poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project.
+
+Data-Analysis-Mobile-sales-Power-BI-project./Screenshot 2025-02-16 194932.png at main · poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project.
+
+Data-Analysis-Mobile-sales-Power-BI-project./Screenshot 2025-02-16 194907.png at main · poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project.
+
+**three main dashboards**:  
 1️⃣ **Main Dashboard (Overall Sales Overview)**  
 2️⃣ **Same Period Last Year (Yearly Sales Comparison)**  
 3️⃣ **MTD Report (Month-to-Date Sales Analysis)**  
@@ -91,8 +95,8 @@ These dashboards provide **a comprehensive view of sales trends, payment methods
 
 ---
 
-## **Actual Dashboard Files**  
-Upload your **Power BI (.pbix) file and dataset (.csv or Excel file)** to your GitHub repository so that others can explore the dashboard.  
+## **Actual Dashboard Files** 
+Data-Analysis-Mobile-sales-Power-BI-project./Second Power BI dashboard..pbix at main · poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project. 
 
 ---
 
@@ -101,5 +105,5 @@ This **Mobile Sales Dashboard** is an effective tool for **analyzing mobile sale
 
 The insights derived from this analysis will help companies **improve marketing campaigns, adjust inventory management, and make data-driven decisions for future growth.**  
 
----
+
 
