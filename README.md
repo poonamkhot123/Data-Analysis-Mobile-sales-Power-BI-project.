@@ -11,7 +11,7 @@ The dashboard consists of multiple pages, each displaying **specific sales metri
 
 
 ## **Datasheet (Data Used in the Project)**  
-Data-Analysis-Mobile-sales-Power-BI-project./Mobile Sales Data.xlsx at main · poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project.
+Mobile Sales Data.xlsx
 
 The dataset used in this project includes the following attributes:  
 
