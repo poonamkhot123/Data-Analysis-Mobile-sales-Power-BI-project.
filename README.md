@@ -55,10 +55,9 @@ The Power BI dashboard is designed to answer critical business questions such as
 ## **Dashboard Images** 
 https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./blob/main/Screenshot%202025-02-16%20194556.png
 https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./blob/main/Screenshot%202025-02-16%20194932.png
+https://github.com/poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project./blob/main/Screenshot%202025-02-16%20194907.png
 
-Data-Analysis-Mobile-sales-Power-BI-project./Screenshot 2025-02-16 194907.png at main · poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project.
-
-**three main dashboards**:  
+**Three main dashboards**:  
 1️⃣ **Main Dashboard (Overall Sales Overview)**  
 2️⃣ **Same Period Last Year (Yearly Sales Comparison)**  
 3️⃣ **MTD Report (Month-to-Date Sales Analysis)**  
@@ -95,7 +94,7 @@ These dashboards provide **a comprehensive view of sales trends, payment methods
 ---
 
 ## **Actual Dashboard Files** 
-Data-Analysis-Mobile-sales-Power-BI-project./Second Power BI dashboard..pbix at main · poonamkhot123/Data-Analysis-Mobile-sales-Power-BI-project. 
+ 
 
 ---
 
